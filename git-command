@@ -1,0 +1,10 @@
+git init
+update .git ignore file
+git add .
+git commit
+git remote add origin https://github.com/boyatbox/nites.git
+git push -u origin master
+
+..update
+
+git push
