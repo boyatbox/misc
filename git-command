@@ -1,10 +1,13 @@
 git init
-update .git ignore file
+update .gitignore file
 git add .
 git commit
 git remote add origin https://github.com/boyatbox/nites.git
 git push -u origin master
 
-..update
+--update code
+--add files if required
+--commit to local repo
+--push to remote remo
 
 git push
