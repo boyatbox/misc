@@ -1,4 +1,4 @@
-git init
+git init 
 update .gitignore file
 git add .
 git commit
@@ -12,6 +12,9 @@ git push -u origin master
 
 git push
 =====================================================================
+Transforming current directory to a Git repository:
+git init
+
 Staging Changes:
 git add <file>
 
