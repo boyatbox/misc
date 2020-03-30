@@ -24,3 +24,5 @@ git commit -m "<message>"
 Pushing Changes to Remote Servers:
 git push <name of remote server> <branch name>
 =====================================================================
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+=====================================================================
