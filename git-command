@@ -11,3 +11,13 @@ git push -u origin master
 --push to remote remo
 
 git push
+=====================================================================
+Staging Changes:
+git add <file>
+
+Committing Changes:
+git commit -m "<message>"
+
+Pushing Changes to Remote Servers:
+git push <name of remote server> <branch name>
+=====================================================================
